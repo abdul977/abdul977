@@ -13,7 +13,7 @@ I'm a vibe coder and full-stack developer who's most passionate about the back-e
 
 - **Frontend:** React, TypeScript
 - **Backend:** Node.js, Python, TypeScript
-- **Other:** Digital Marketing
+- **Other:** Digital Marketing.
 
 ## My Projects
 
